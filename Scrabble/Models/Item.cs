@@ -19,6 +19,5 @@ namespace Scrabble.Models
     public static char[] Point5 = { 'k' };
     public static char[] Point8 = { 'j', 'x'};
     public static char[] Point10 = {'q', 'z'};
-     
   }
 }

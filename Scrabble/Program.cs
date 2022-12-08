@@ -10,10 +10,8 @@ namespace Scrabble.Program
     {
       Console.WriteLine("Enter your Scrabble word:");
       string word = Console.ReadLine().ToLower().Trim();
-      Console.WriteLine($"\nYour word is '{word}'");
 
       Item newItem = new Item(word); //create new Item with word, lowercase it and trim it
-      Console.WriteLine(newItem.Word);
 
       char[] charArray = word.ToCharArray();
 
@@ -93,7 +91,8 @@ namespace Scrabble.Program
           }
         }
       }
-      Console.WriteLine(newItem.Score);
+      Console.WriteLine($"\nYou played the word: '{word}'");
+      Console.WriteLine($"\nFor a Score of: {newItem.Score}");
     }
   }
 }
