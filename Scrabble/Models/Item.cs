@@ -6,11 +6,12 @@ namespace Scrabble.Models
   {
     public string Word { get; set; }
     public int Score { get; set; }
-    
+
     public Item(string word) //constructor
     {
       Word = word;
       Score = 0;
     }
+    public char[] Point1 = { 'a', 'e', 'i', 'o', 'u', 'l', 'n', 'r', 's', 't' };
   }
 }

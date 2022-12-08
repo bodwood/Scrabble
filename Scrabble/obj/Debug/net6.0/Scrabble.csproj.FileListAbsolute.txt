@@ -10,3 +10,6 @@ C:\Users\bodie\onedrive\desktop\epicodus-projects\Scrabble.Solution\Scrabble\obj
 C:\Users\bodie\onedrive\desktop\epicodus-projects\Scrabble.Solution\Scrabble\obj\Debug\net6.0\refint\Scrabble.dll
 C:\Users\bodie\onedrive\desktop\epicodus-projects\Scrabble.Solution\Scrabble\obj\Debug\net6.0\Scrabble.pdb
 C:\Users\bodie\onedrive\desktop\epicodus-projects\Scrabble.Solution\Scrabble\obj\Debug\net6.0\ref\Scrabble.dll
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Scrabble.Solution\Scrabble\bin\Debug\net6.0\Scrabble.exe
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Scrabble.Solution\Scrabble\bin\Debug\net6.0\Scrabble.runtimeconfig.json
+C:\Users\bodie\onedrive\desktop\epicodus-projects\Scrabble.Solution\Scrabble\obj\Debug\net6.0\Scrabble.genruntimeconfig.cache

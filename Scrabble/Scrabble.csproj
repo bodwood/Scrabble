@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-  <!-- </OutputType>Exe</OutputType> needed for UI -->
+  <OutputType>Exe</OutputType> <!--needed for UI -->
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
