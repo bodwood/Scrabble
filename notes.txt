@@ -1,0 +1,5 @@
+Create an array for each scarbble point system (i.e. A, E, I, O, U, L, N, R, S, T = 1 pt.)
+Grab word from user
+Split up word from user into an array
+Loop through each letter of userWord array and compare each letter with each point array (.includes())
+If the word contains any letter with one of the point arrays, add such points to the score
